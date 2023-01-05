@@ -1,0 +1,53 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0
+}
+
+.centered {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.centered > * {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.centered > ul {
+    display: inline-block;
+    text-align: left;
+}
+
+#colors > div > input {
+    vertical-align: middle;
+    margin: 0px;
+}
+
+legend {
+    font-weight: 600;
+}
+
+button {
+    background-color: #2f95cf;
+    font-size: larger;
+    font-weight: 600;
+}
+
+button:hover {
+    background-color: #06f;
+}
+
+a {
+    color: #2f95cf;
+}
+
+a:hover {
+    color: #06f
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
