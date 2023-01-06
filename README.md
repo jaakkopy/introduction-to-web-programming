@@ -9,6 +9,11 @@ This is a small game I made for a school project with the Phaser 3 JavaScript ga
 - Manjaro 22.0.0 : The operating system used while developing and testing.
 - Apache/2.4.54 (Unix) : HTTP-server with which the software was served
 
+# Screenshot
+
+A screenshot with the mobile controls in use:
+![screenshot of the game](./screenshots/on_mobile.png)
+
 # Influences
 
 An example project created by Yannick (link below) had an influence on the project structure and
